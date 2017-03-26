@@ -15,4 +15,4 @@ Follow prompts to either check balance, withdraw or deposit.
 
 Add file reads for user accounts
 Add file reads for ATM account balance
-Add RFID chip intregation to act as user's debit cards. (https://tenderlovemaking.com/2009/09/19/ruby-and-rfid-tags.html)
+Add RFID chip integration to act as user's debit cards. (https://tenderlovemaking.com/2009/09/19/ruby-and-rfid-tags.html)
